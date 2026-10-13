@@ -1,0 +1,18 @@
+# requested
+farm-panel-prototype/
+
+# 5 GB image datasets; not enough free disk to store them in git
+train-pc/vendor/
+
+# account secrets
+logpass.txt
+maFiles/
+sessions/
+*.maFile
+
+# dependencies and local junk
+looter/node_modules/
+.pytest_cache/
+__pycache__/
+*.pyc
+.DS_Store

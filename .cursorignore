@@ -1,0 +1,8 @@
+Panel.exe
+**/*.dll
+looter/node_modules/
+tk/
+tcl/
+BES/
+customtkinter/
+farm-panel-prototype/data/
